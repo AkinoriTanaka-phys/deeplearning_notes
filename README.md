@@ -4,7 +4,7 @@ notebooks for intensive lecture
 # 目次
 以下のリンクで各ノートにアクセスできます。節は各READMEへ、サブ節はGoogle Colaboratoryのページに飛びます。
 
-サブ節はGoogle Colaboratoryにリンクで飛んだ後に**実際にコードを実行することも可能です**。実行にはGoogleアカウントが必要なようです。リンク先のものを直接実行しても基本的には問題ありませんが、何らかのファイルを保存するような動作をするものが幾つかあるので、それがGoogle Colaboratoryでどのように動作するかは未確認です。おそらく一旦自分のGoogleドライブにコピーしてから実行するのが良いような気もします。
+サブ節はGoogle Colaboratoryにリンクで飛んだ後に**1-1を除き、実際にコードを実行することも可能です**。実行にはGoogleアカウントが必要なようです。リンク先のものを直接実行しても基本的には問題ありませんが、何らかのファイルを保存するような動作をするものが幾つかあるので、それがGoogle Colaboratoryでどのように動作するかは未確認です。**一旦自分のGoogleドライブにコピーしてから実行するのが良い**ような気もします。
 
 - [1. 機械学習の目的と確率論の復習](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/README.md)
     - [1-1. 大雑把な分類](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/1-1.ipynb)
