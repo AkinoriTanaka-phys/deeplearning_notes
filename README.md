@@ -36,3 +36,5 @@ notebooks for intensive lecture
     - [7-1. LSTMでアルゴリズム学習してみる](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section7/7-1.ipynb)
     - [7-2. tensorflowでRNNをカスタマイズする方法](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section7/7-2.ipynb)
     - [7-3. Neural Turing Machines](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section7/7-3.ipynb)
+- [8. 教師なし深層学習](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/README.md)
+    - [8-1. 変分自己符号化器](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/8-1.ipynb)
