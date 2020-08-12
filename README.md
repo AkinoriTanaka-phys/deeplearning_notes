@@ -41,3 +41,4 @@ SubsectionはGoogle Colaboratoryにリンクで飛んだ後に**1-1を除き、�
 - [8. 教師なし深層学習](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/README.md)
     - [8-1. 変分自己符号化器](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/8-1.ipynb)
     - [8-2. 敵対的生成ネットワーク](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/8-2.ipynb)
+    - [8-3. Flow-basedモデル](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/8-3.ipynb)
