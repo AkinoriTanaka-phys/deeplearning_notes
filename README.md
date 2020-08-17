@@ -6,7 +6,7 @@ notebooks for intensive lecture
 
 SubsectionはGoogle Colaboratoryにリンクで飛んだ後に**1-1を除き、実際にコードを実行することも可能です**。実行にはGoogleアカウントが必要なようです。リンク先のものを直接実行しても基本的には問題ありませんが、何らかのファイルを保存するような動作をするものが幾つかあるので、それがGoogle Colaboratoryでどのように動作するかは未確認です。**一旦自分のGoogleドライブにコピーしてから実行するのが良い**ような気もします。
 
-> 【注意】：プログラムのソースコードは実は「著作物」です。このリポジトリで多くのプログラムを使用しますが、その著作権に関わる取り決めはMITライセンス https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/LICENSE にある通りとします。MITライセンスについては https://ja.wikipedia.org/wiki/MIT_License などご参照下さい。尚、4-2, 4-3, 5-1, 6-3, 8-1, 8-2, 8-3 には、私以外の方の作成したソースコードを改変したものが含まれている(それぞれのライセンスについては引用箇所や末尾に記載しました)ので、個人使用を超えた使用の際にはご注意下さい。
+> 【注意】：プログラムのソースコードは実は「著作物」です。このリポジトリで多くのプログラムを使用しますが、その著作権に関わる取り決めはMITライセンス https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/LICENSE にある通りとします。MITライセンスについては https://ja.wikipedia.org/wiki/MIT_License などご参照下さい。尚、4-2, 4-3, 5-1, 6-3, 8-1, 8-2, 8-3, 9-1(?) には、私以外の方の作成したソースコードを改変したものが含まれている(それぞれのライセンスについては引用箇所や末尾に記載しました)ので、個人使用を超えた使用の際にはご注意下さい。
 
 - [1. 機械学習の目的と確率論の復習](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/README.md)
     - [1-1. 大雑把な分類](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section1/1-1.ipynb)
@@ -42,3 +42,8 @@ SubsectionはGoogle Colaboratoryにリンクで飛んだ後に**1-1を除き、�
     - [8-1. 変分自己符号化器](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/8-1.ipynb)
     - [8-2. 敵対的生成ネットワーク](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/8-2.ipynb)
     - [8-3. Flow-basedモデル](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section8/8-3.ipynb)
+- [9. 強化学習](https://github.com/AkinoriTanaka-phys/deeplearning_notes/blob/master/section9/README.md)
+    - [9-1. 多腕バンディット問題](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section9/9-1.ipynb)
+    - [9-2. マルコフ決定過程](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section9/9-2.ipynb)
+    - [9-3. 行動価値推定に基づくRL](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section9/9-3.ipynb)
+    - [9-4. 方策勾配法によるRL](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/section9/9-4.ipynb)
