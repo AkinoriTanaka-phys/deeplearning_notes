@@ -2,11 +2,12 @@
 
 ## 深層学習に限らず有用なもの
 
-- [Python入門]()
+- [Python入門](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/appendix/intro2python.ipynb)
 >深層学習のフレームワークの多くはプログラミング言語pythonから使うのが普通です。そこで、まずはpythonの文法から説明します。
-- [NumPy入門]()
+- [NumPy入門](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/appendix/intro2np.ipynb)
 >実はpythonだけでは、計算速度が遅いため数値計算などには向いていません。数値計算したい場合はnumpyを使うのをオススメします。ちなみにcupyというのもあり、numpyの文法でほぼそのまま、GPUでの並列計算の恩恵を受けられてとても便利です。
-- [Matplotlib入門]()
+- [Matplotlib入門](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/appendix/intro2plt.ipynb)
+>pythonで図を描く場合はだいたいこれを使います。matplotlibのラッパーでseabornというのもありますが、ここでは説明しません。
 
 ## 深層学習ライブラリ
 
