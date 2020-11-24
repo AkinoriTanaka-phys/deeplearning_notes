@@ -13,8 +13,8 @@
 
 - [TensorFlow入門](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/appendix/intro2tf.ipynb)
 >TensorFlow中のKerasを用いて、ニューラルネットワークの勾配学習を行うためのミニマムな説明。
-- PyTorch入門
->近いうち書く予定…
+- [PyTorch入門](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/appendix/intro2torch.ipynb)
+>Pytorchを用いて、ニューラルネットワークの勾配学習を行うためのミニマムな説明。
 
 ---
 
