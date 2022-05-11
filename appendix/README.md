@@ -16,6 +16,10 @@
 - [PyTorch入門](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/appendix/intro2torch.ipynb)
 >Pytorchを用いて、ニューラルネットワークの勾配学習を行うためのミニマムな説明。
 
+## チュートリアル
+- [強化学習チュートリアル](https://colab.research.google.com/github/AkinoriTanaka-phys/deeplearning_notes/blob/master/appendix/rl_tutorial.ipynb)
+>テーブル形式の強化学習の実践。
+
 ---
 
 **ノートの記法について**
